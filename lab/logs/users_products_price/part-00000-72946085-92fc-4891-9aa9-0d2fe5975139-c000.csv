@@ -1,0 +1,7 @@
+product_id,user_id,interaction,timestamp,category,price
+P1,U1,click,2025-08-01 10:05:00,electronics,399.99
+P2,U2,purchase,2025-08-01 11:10:00,electronics,49.99
+P3,U3,click,2025-08-01 12:32:00,books,14.99
+P3,U3,purchase,2025-08-01 12:40:00,books,14.99
+P2,U4,purchase,2025-08-01 13:20:00,electronics,49.99
+P3,U4,purchase,2025-08-01 14:20:00,books,14.99

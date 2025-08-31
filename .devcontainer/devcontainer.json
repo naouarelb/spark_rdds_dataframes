@@ -1,0 +1,13 @@
+{
+    "name": "Spark Example",
+    "dockerFile": "Dockerfile.dev",
+    "runArgs": [
+      "--name",
+      "spark_test",
+      "--dns",
+      "8.8.8.8"
+    ],
+    "workspaceMount": "source=${localWorkspaceFolder},target=/spark,type=bind",
+    "workspaceFolder": "/spark/lab"
+}
+  
