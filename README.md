@@ -35,6 +35,3 @@ USER_INTERACTION_PATH=/data/user_interactions.csv
 PRODUCT_CATALOG_PATH=/data/product_catalog.csv
 USER_REVIEW_PATH=/data/user_reviews.csv
 LOG_DIR=/data/logs/
-
-
-The pro
